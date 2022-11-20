@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Shanmugasundaram Raja, a Junior Front end developer.
 
 
 - 🔭 I’m currently working on ...Functional React Applications
