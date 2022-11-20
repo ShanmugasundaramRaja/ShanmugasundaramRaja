@@ -1,5 +1,6 @@
-### Hi there 👋
-I'm Shanmugasundaram Raja, a Junior Front end developer.
+### Hi there 👋, I'm Shanmugasundaram Raja
+
+A passionate front-end web developer from Germany
 
 
 - 🔭 I’m currently working on ...Functional React Applications
